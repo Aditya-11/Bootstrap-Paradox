@@ -9,7 +9,9 @@ let select =
 </vaadin-select>`
 
 let render = (template, node) => {
-    inner
+    if(!node)
+        return;
+    node.innerHTML = template
 }
 
 module.exports = select;
