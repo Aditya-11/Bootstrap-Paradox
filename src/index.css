@@ -16,6 +16,20 @@
     padding-left: 15%
 }
 
+#dtable
+{
+    margin-right: 30px;
+    margin-top: 30px;
+    float: right;
+    transform: scale(0.7);
+    /* width: 750px; */
+    /* display: flex;
+    justify-content: space-around; */
+}
+
+body div{
+    display: inline-block;
+}
 .anime
 {
     animation-duration: 0.75s;
@@ -36,4 +50,17 @@
         margin-top: 15%;
         width: 300px;
     }
+}
+
+.table-anime
+{
+    animation-duration: 0.75s;
+    animation-name: fadein;
+    animation-direction: alternate;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
 }
