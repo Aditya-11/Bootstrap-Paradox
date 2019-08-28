@@ -1,7 +1,7 @@
 .container
 {
     margin-left: 40%;
-    margin-top: 15%;
+    margin-top: 5%;
     width: 300px;
 }
 
@@ -13,15 +13,28 @@
 
 #s
 {
-    padding-left: 15%
+    padding-left: 5%
+}
+img
+{
+    transform: scale(0.4);
+    margin-left: -10%;
+    /* float: center; */
+    /* margin-right: 200px; */
+    /* padding-right: 200px; */
 }
 
-#dtable
+.custom-select
 {
-    margin-right: 30px;
-    margin-top: 30px;
+    width: 222px;
+}
+
+.dtable
+{
+    margin-right: 10px;
+    /* margin-top: 30px; */
     float: right;
-    transform: scale(0.7);
+    /* transform: scale(0.7); */
     /* width: 750px; */
     /* display: flex;
     justify-content: space-around; */
@@ -41,13 +54,13 @@ body div{
 @keyframes slidein {
     from {
         margin-left: 40%;
-        margin-top: 15%;
+        margin-top: 5%;
         width: 300px;
     }
   
     to {
         margin-left: 30px;
-        margin-top: 15%;
+        margin-top: 5%;
         width: 300px;
     }
 }

@@ -12,32 +12,37 @@
 <body>
         <!-- <form action="/" method="get" class="container"> -->
         <div class="container">
+
+        <img src="../dell.png"></img>
         <div class="submission" id="price">
         <label for="basic-url">Targeted Price Point</label>
         <div class="input-group mb-3">
                 <div class="input-group-prepend">
                         <span class="input-group-text">$</span>
                 </div>
-                <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" name="price">
-                <!-- <div class="input-group-append">
-                        <span class="input-group-text">.00</span>
-                </div> -->
+                <!-- <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" name="price"> -->
+                <select class="custom-select" placeholder="Highest Priority" name="p1">
+                                <option value="" disabled selected>Target price range</option>
+                                <option value="500">500</option>
+                                <option value="1000">1000</option>
+                                <option value="1500">1500</option>
+                </select>
         </div>
         </div>
 
         <div class="submission" id="p1">
         <label for="basic-url">Optimisation priorities</label>
-        <select class="custom-select" name="p1">
-                <option selected>Highest Priority</option>
-                <option value="1">Supplier Rating</option>
-                <option value="2">Component Performance</option>
+        <select class="custom-select" placeholder="Highest Priority" name="p1">
+                <option value="" disabled selected>Highest Priority</option>
+                <option value="2">Supplier Rating</option>
+                <option value="1">Component Performance</option>
                 <!-- <option value="3">Three</option> -->
         </select>
         </div>
 
         <div class="submission" id="p2">
-        <select class="custom-select" name="p2">
-                <option selected>Highest Priority</option>
+        <select class="custom-select" placeholder="Highest Priority" name="p2">
+                <option value="" disabled selected>Highest Priority</option>
                 <option value="1">Supplier Rating</option>
                 <option value="2">Component Performance</option>
                 <!-- <option value="3">Three</option> -->
