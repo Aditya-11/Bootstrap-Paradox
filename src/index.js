@@ -24,8 +24,15 @@ submit.addEventListener('click', async () => {
     
     let price = document.getElementsByClassName('custom-select')[0].value;
     let p1 = document.getElementsByClassName('custom-select')[1].value;
-    let p2 = document.getElementsByClassName('custom-select')[2].value;
-    let url = `http://${ip}/query/?price=${price}&p1=${p1}&p2=${p2}`;
+    // let p2 = document.getElementsByClassName('custom-select')[2].value;
+    // let optiNo;
+    // if(p1=='' || p2=='')
+    //     optiNo = 1;
+    // else
+    //     optiNo = 2;
+    
+    // let url = `http://${ip}/query/?optiNo=${optiNo}&price=${price}&p1=${p1}&p2=${p2}`;
+    let url = `http://${ip}/query/?&price=${price}&p1=${p1}`;
     console.log(url);
     tableNodes = document.getElementsByClassName('dtable');
     if(tableNodes) {
