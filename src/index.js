@@ -14,7 +14,6 @@ let ip = '192.168.43.193:5000';
 // y[0].options[y[0].selectedIndex].text
 let inputContainer = document.getElementsByClassName('container')[0];
 let body = document.getElementsByTagName('body')[0];
-console.log(body);
 let tableNodes = 0;
 
 
@@ -24,12 +23,6 @@ submit.addEventListener('click', async () => {
     
     let price = document.getElementsByClassName('custom-select')[0].value;
     let p1 = document.getElementsByClassName('custom-select')[1].value;
-    // let p2 = document.getElementsByClassName('custom-select')[2].value;
-    // let optiNo;
-    // if(p1=='' || p2=='')
-    //     optiNo = 1;
-    // else
-    //     optiNo = 2;
     
     // let url = `http://${ip}/query/?optiNo=${optiNo}&price=${price}&p1=${p1}&p2=${p2}`;
     let url = `http://${ip}/query/?&price=${price}&p1=${p1}`;
@@ -48,6 +41,7 @@ submit.addEventListener('click', async () => {
     body.appendChild(dtable);
     dtable.classList.add('dtable');
     render(data, dtable);
+    
     let t = document.getElementsByTagName('table')[0];
     t.classList.add('table');
     t.classList.add('table-borderless');
@@ -56,7 +50,14 @@ submit.addEventListener('click', async () => {
     let th = document.getElementsByTagName('thead')[0];
     th.classList.add('thead-dark');
 
+    let i = 3;
+    let sum = 0;
+    while(i<85) {
+        sum+=parseFloat(document.getElementsByTagName('td')[i].textContent)
+        i+=6;
+    }
+    if(price !='')
+        setTimeout(() => alert('Total Cost = ' + sum), 750)    
+    
 
-
-    // render(myRegex, dtable);
 });
