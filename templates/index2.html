@@ -1,0 +1,19 @@
+<html>
+   <center>
+
+   <head><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> <title>Dell BOM SYSTEM</title> 
+   <link rel="stylesheet" href="./index.css"></head>
+    <body>
+       <h3> <b><br>Latest Data Acquisition System </br> </b></h3>
+
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6SCUWVGg0eMB2bzZrT4Y0mbjrESxEAdRta4dA9AgGZbisDX_bYA" width="400" height="300"></img>
+
+       <h2>Latest Top 10 Data Acquired !</h2>
+
+       {% for data in nested_data %}
+       <li>component acquired is -><b> {{data[2]}} </b> || at a price <b> {{data[4]}} $</b></li>
+       {% endfor %}
+
+   </body>
+   </center>
+</html>
