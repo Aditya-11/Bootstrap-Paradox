@@ -1,0 +1,421 @@
+,commodity,supplier,Model_id,price_in_dollars,supplier_rating,component_rating
+0,HDD500GB,Seasonic,685903,75.0,8,5
+1,HDD500GB,ADATA,289636,84.0,4,7
+2,HDD500GB,Buffalo Technology,673977,60.0,6,5
+3,HDD500GB,Freecom,635030,77.0,5,4
+4,HDD500GB,G-Technology,859363,67.0,7,3
+5,HDD500GB,Hyundai,939891,57.0,5,4
+6,HDD500GB,IoSafe,428599,72.0,9,7
+7,HDD500GB,LaCie,179463,88.0,9,8
+8,HDD500GB,LG,986108,97.0,4,8
+9,HDD500GB,Maxtor,750425,77.0,5,3
+10,HDD500GB,Shuttle SilverStoneTechnology,812078,53.0,7,9
+11,HDD500GB,Promise Technology,954551,63.0,7,6
+12,HDD500GB,Samsung,718056,59.0,7,7
+13,HDD500GB,Seagate,415737,75.0,6,5
+14,HDD500GB,Silicon Power,227342,64.0,8,5
+15,HDD500GB,Sony,884938,63.0,6,5
+16,HDD500GB,Toshiba,651642,91.0,4,7
+17,HDD500GB,Transcend Information,277032,58.0,6,6
+18,HDD500GB,TrekStor,643911,90.0,8,5
+19,HDD500GB,Verbatim Corporation,859782,88.0,5,8
+20,HDD500GB,Western Digital,232164,70.0,4,7
+21,HDD500GB,Thermaltake,740432,80.0,6,6
+22,HDD500GB,UltraProducts,220703,89.0,4,4
+23,HDD500GB,Intel,223271,70.0,6,3
+24,HDD500GB,Nvidia,451148,90.0,9,3
+25,HDD500GB,Acer,615584,66.0,6,3
+26,HDD500GB,ACubeSystems,178923,82.0,8,3
+27,HDD500GB,AMAX Information Technologies,160215,75.0,7,9
+28,HDD500GB,AOpen,356250,53.0,5,8
+29,HDD500GB,Chassis Plans,950950,71.0,8,5
+30,CPU,Seasonic,828851,233.0,9,9
+31,CPU,ADATA,889948,283.0,8,6
+32,CPU,Buffalo Technology,127692,236.0,9,6
+33,CPU,Freecom,210271,113.0,5,4
+34,CPU,G-Technology,464344,148.0,5,3
+35,CPU,Hyundai,330552,139.0,5,5
+36,CPU,IoSafe,669527,148.0,8,9
+37,CPU,LaCie,230160,202.0,4,4
+38,CPU,LG,989595,129.0,8,3
+39,CPU,Maxtor,148317,112.0,6,4
+40,CPU,Shuttle SilverStoneTechnology,865888,157.0,8,9
+41,CPU,Promise Technology,436184,268.0,9,5
+42,CPU,Samsung,744558,220.0,7,5
+43,CPU,Seagate,928164,239.0,7,9
+44,CPU,Silicon Power,655502,165.0,9,4
+45,CPU,Sony,584489,185.0,6,3
+46,CPU,Toshiba,509431,141.0,8,7
+47,CPU,Transcend Information,650083,197.0,7,8
+48,CPU,TrekStor,811752,229.0,6,7
+49,CPU,Verbatim Corporation,329203,112.0,8,7
+50,CPU,Western Digital,391760,234.0,9,9
+51,CPU,Thermaltake,667696,275.0,5,3
+52,CPU,UltraProducts,164886,199.0,9,8
+53,CPU,Intel,285693,223.0,4,7
+54,CPU,Nvidia,864844,238.0,7,8
+55,CPU,Acer,401660,154.0,6,4
+56,CPU,ACubeSystems,428444,253.0,9,5
+57,CPU,AMAX Information Technologies,556263,225.0,6,3
+58,CPU,AOpen,630711,148.0,4,5
+59,CPU,Chassis Plans,820394,266.0,5,8
+60,MotherBoard,Seasonic,733577,173.0,7,6
+61,MotherBoard,ADATA,217539,146.0,6,6
+62,MotherBoard,Buffalo Technology,498653,120.0,6,4
+63,MotherBoard,Freecom,744487,171.0,6,8
+64,MotherBoard,G-Technology,228151,174.0,8,9
+65,MotherBoard,Hyundai,673532,127.0,7,3
+66,MotherBoard,IoSafe,596375,64.0,8,5
+67,MotherBoard,LaCie,691072,51.0,4,7
+68,MotherBoard,LG,830773,80.0,6,3
+69,MotherBoard,Maxtor,151556,147.0,6,9
+70,MotherBoard,Shuttle SilverStoneTechnology,985667,109.0,4,4
+71,MotherBoard,Promise Technology,598145,165.0,6,6
+72,MotherBoard,Samsung,938211,133.0,4,7
+73,MotherBoard,Seagate,747035,156.0,6,5
+74,MotherBoard,Silicon Power,842619,55.0,4,3
+75,MotherBoard,Sony,120961,198.0,9,4
+76,MotherBoard,Toshiba,508475,133.0,8,7
+77,MotherBoard,Transcend Information,566436,90.0,4,5
+78,MotherBoard,TrekStor,468673,108.0,8,5
+79,MotherBoard,Verbatim Corporation,340763,95.0,5,3
+80,MotherBoard,Western Digital,744382,129.0,8,3
+81,MotherBoard,Thermaltake,697689,65.0,8,5
+82,MotherBoard,UltraProducts,844165,103.0,9,4
+83,MotherBoard,Intel,585193,131.0,5,8
+84,MotherBoard,Nvidia,236157,59.0,4,4
+85,MotherBoard,Acer,286321,75.0,5,9
+86,MotherBoard,ACubeSystems,753183,83.0,4,4
+87,MotherBoard,AMAX Information Technologies,298047,180.0,6,7
+88,MotherBoard,AOpen,146210,171.0,6,9
+89,MotherBoard,Chassis Plans,310003,88.0,4,3
+90,RAM8GB,Seasonic,890450,50.0,6,4
+91,RAM8GB,ADATA,997426,78.0,8,5
+92,RAM8GB,Buffalo Technology,540341,50.0,8,4
+93,RAM8GB,Freecom,963811,58.0,5,6
+94,RAM8GB,G-Technology,540523,56.0,6,8
+95,RAM8GB,Hyundai,491098,78.0,4,8
+96,RAM8GB,IoSafe,829135,98.0,4,5
+97,RAM8GB,LaCie,985520,78.0,6,3
+98,RAM8GB,LG,204972,82.0,7,9
+99,RAM8GB,Maxtor,306955,67.0,8,4
+100,RAM8GB,Shuttle SilverStoneTechnology,812425,71.0,5,9
+101,RAM8GB,Promise Technology,854508,83.0,7,3
+102,RAM8GB,Samsung,351715,57.0,9,3
+103,RAM8GB,Seagate,596238,54.0,9,3
+104,RAM8GB,Silicon Power,538926,55.0,4,6
+105,RAM8GB,Sony,727324,97.0,8,9
+106,RAM8GB,Toshiba,808884,87.0,8,6
+107,RAM8GB,Transcend Information,325589,80.0,7,6
+108,RAM8GB,TrekStor,675484,99.0,7,5
+109,RAM8GB,Verbatim Corporation,745007,79.0,4,3
+110,RAM8GB,Western Digital,850395,83.0,7,7
+111,RAM8GB,Thermaltake,163523,55.0,9,3
+112,RAM8GB,UltraProducts,929232,74.0,8,6
+113,RAM8GB,Intel,380836,50.0,8,3
+114,RAM8GB,Nvidia,273867,89.0,6,9
+115,RAM8GB,Acer,155752,66.0,9,5
+116,RAM8GB,ACubeSystems,629882,66.0,5,9
+117,RAM8GB,AMAX Information Technologies,646554,62.0,6,5
+118,RAM8GB,AOpen,414934,72.0,6,3
+119,RAM8GB,Chassis Plans,746127,53.0,4,4
+120,RAM16GB,Seasonic,152439,84.0,6,8
+121,RAM16GB,ADATA,330349,86.0,5,8
+122,RAM16GB,Buffalo Technology,770130,117.0,4,9
+123,RAM16GB,Freecom,480967,158.0,4,7
+124,RAM16GB,G-Technology,822051,86.0,9,7
+125,RAM16GB,Hyundai,906301,87.0,8,4
+126,RAM16GB,IoSafe,130604,86.0,7,9
+127,RAM16GB,LaCie,473196,127.0,4,7
+128,RAM16GB,LG,700911,132.0,8,4
+129,RAM16GB,Maxtor,509373,113.0,8,9
+130,RAM16GB,Shuttle SilverStoneTechnology,554280,126.0,8,5
+131,RAM16GB,Promise Technology,698582,155.0,4,9
+132,RAM16GB,Samsung,735558,104.0,4,3
+133,RAM16GB,Seagate,387093,128.0,6,4
+134,RAM16GB,Silicon Power,292149,138.0,9,8
+135,RAM16GB,Sony,775884,95.0,7,5
+136,RAM16GB,Toshiba,438907,159.0,4,6
+137,RAM16GB,Transcend Information,231719,159.0,8,3
+138,RAM16GB,TrekStor,990858,145.0,7,3
+139,RAM16GB,Verbatim Corporation,981135,87.0,6,8
+140,RAM16GB,Western Digital,640869,109.0,9,8
+141,RAM16GB,Thermaltake,839428,106.0,8,9
+142,RAM16GB,UltraProducts,805513,107.0,5,4
+143,RAM16GB,Intel,558921,127.0,9,4
+144,RAM16GB,Nvidia,710333,126.0,5,8
+145,RAM16GB,Acer,626618,132.0,8,3
+146,RAM16GB,ACubeSystems,556512,158.0,5,3
+147,RAM16GB,AMAX Information Technologies,888670,83.0,5,4
+148,RAM16GB,AOpen,117110,107.0,6,4
+149,RAM16GB,Chassis Plans,671106,96.0,9,7
+150,Keyboard,Seasonic,844460,69.0,7,3
+151,Keyboard,ADATA,710950,86.0,4,9
+152,Keyboard,Buffalo Technology,877704,90.0,9,5
+153,Keyboard,Freecom,847426,63.0,5,5
+154,Keyboard,G-Technology,690267,81.0,8,4
+155,Keyboard,Hyundai,599818,81.0,9,6
+156,Keyboard,IoSafe,451854,87.0,4,5
+157,Keyboard,LaCie,761364,85.0,6,6
+158,Keyboard,LG,589969,28.0,6,8
+159,Keyboard,Maxtor,523261,19.0,9,8
+160,Keyboard,Shuttle SilverStoneTechnology,899206,54.0,7,5
+161,Keyboard,Promise Technology,564106,19.0,5,3
+162,Keyboard,Samsung,729265,12.0,4,3
+163,Keyboard,Seagate,623269,78.0,4,9
+164,Keyboard,Silicon Power,651759,12.0,8,6
+165,Keyboard,Sony,247505,98.0,4,9
+166,Keyboard,Toshiba,887894,79.0,6,3
+167,Keyboard,Transcend Information,793580,76.0,5,8
+168,Keyboard,TrekStor,941321,59.0,5,6
+169,Keyboard,Verbatim Corporation,875144,82.0,6,4
+170,Keyboard,Western Digital,866940,76.0,6,9
+171,Keyboard,Thermaltake,658767,34.0,4,5
+172,Keyboard,UltraProducts,393285,98.0,9,6
+173,Keyboard,Intel,964201,59.0,8,5
+174,Keyboard,Nvidia,430327,56.0,5,5
+175,Keyboard,Acer,851253,48.0,6,5
+176,Keyboard,ACubeSystems,570276,62.0,6,4
+177,Keyboard,AMAX Information Technologies,344187,84.0,8,9
+178,Keyboard,AOpen,770284,99.0,8,5
+179,Keyboard,Chassis Plans,788361,81.0,8,9
+180,DVDdrive,Seasonic,819179,53.0,7,4
+181,DVDdrive,ADATA,688550,49.0,5,5
+182,DVDdrive,Buffalo Technology,767512,32.0,9,8
+183,DVDdrive,Freecom,466817,39.0,5,9
+184,DVDdrive,G-Technology,587893,67.0,4,9
+185,DVDdrive,Hyundai,103947,73.0,5,8
+186,DVDdrive,IoSafe,127100,51.0,4,9
+187,DVDdrive,LaCie,675288,77.0,6,5
+188,DVDdrive,LG,396755,38.0,8,8
+189,DVDdrive,Maxtor,884631,61.0,6,3
+190,DVDdrive,Shuttle SilverStoneTechnology,173337,57.0,7,7
+191,DVDdrive,Promise Technology,371436,32.0,5,3
+192,DVDdrive,Samsung,972301,51.0,8,3
+193,DVDdrive,Seagate,490052,54.0,4,3
+194,DVDdrive,Silicon Power,769383,33.0,7,4
+195,DVDdrive,Sony,106229,52.0,9,4
+196,DVDdrive,Toshiba,699738,59.0,7,5
+197,DVDdrive,Transcend Information,441801,71.0,7,3
+198,DVDdrive,TrekStor,220038,65.0,8,9
+199,DVDdrive,Verbatim Corporation,883247,55.0,5,4
+200,DVDdrive,Western Digital,374219,60.0,9,6
+201,DVDdrive,Thermaltake,549851,38.0,9,5
+202,DVDdrive,UltraProducts,461298,52.0,5,4
+203,DVDdrive,Intel,461023,36.0,6,5
+204,DVDdrive,Nvidia,319036,35.0,8,5
+205,DVDdrive,Acer,782384,53.0,5,3
+206,DVDdrive,ACubeSystems,992805,62.0,9,6
+207,DVDdrive,AMAX Information Technologies,386285,73.0,5,7
+208,DVDdrive,AOpen,985024,75.0,4,4
+209,DVDdrive,Chassis Plans,258325,61.0,7,8
+210,Chasis,Seasonic,766591,110.0,4,3
+211,Chasis,ADATA,743233,54.0,7,9
+212,Chasis,Buffalo Technology,966216,130.0,6,6
+213,Chasis,Freecom,453908,180.0,6,3
+214,Chasis,G-Technology,768123,119.0,6,4
+215,Chasis,Hyundai,974894,105.0,7,3
+216,Chasis,IoSafe,487117,200.0,9,7
+217,Chasis,LaCie,588297,143.0,5,7
+218,Chasis,LG,115402,177.0,8,9
+219,Chasis,Maxtor,872960,98.0,5,3
+220,Chasis,Shuttle SilverStoneTechnology,280514,132.0,8,8
+221,Chasis,Promise Technology,361215,115.0,5,5
+222,Chasis,Samsung,618327,128.0,9,7
+223,Chasis,Seagate,847750,111.0,7,7
+224,Chasis,Silicon Power,125490,173.0,9,6
+225,Chasis,Sony,427945,138.0,6,6
+226,Chasis,Toshiba,659049,119.0,7,7
+227,Chasis,Transcend Information,280493,155.0,9,9
+228,Chasis,TrekStor,115701,82.0,9,4
+229,Chasis,Verbatim Corporation,480843,118.0,4,8
+230,Chasis,Western Digital,495265,198.0,4,4
+231,Chasis,Thermaltake,768959,158.0,6,7
+232,Chasis,UltraProducts,899630,82.0,8,8
+233,Chasis,Intel,489680,143.0,4,5
+234,Chasis,Nvidia,111929,169.0,8,3
+235,Chasis,Acer,668817,77.0,9,8
+236,Chasis,ACubeSystems,199310,188.0,8,3
+237,Chasis,AMAX Information Technologies,797505,170.0,8,6
+238,Chasis,AOpen,630389,169.0,9,7
+239,Chasis,Chassis Plans,361075,131.0,4,5
+240,PSU800,Seasonic,603122,254.0,8,8
+241,PSU800,ADATA,659680,235.0,6,4
+242,PSU800,Buffalo Technology,696429,158.0,4,6
+243,PSU800,Freecom,368090,160.0,7,3
+244,PSU800,G-Technology,541610,281.0,7,8
+245,PSU800,Hyundai,847518,207.0,5,7
+246,PSU800,IoSafe,759612,180.0,4,5
+247,PSU800,LaCie,656040,205.0,4,4
+248,PSU800,LG,812439,216.0,7,6
+249,PSU800,Maxtor,651524,278.0,8,9
+250,PSU800,Shuttle SilverStoneTechnology,270412,199.0,7,6
+251,PSU800,Promise Technology,408990,252.0,4,4
+252,PSU800,Samsung,140883,250.0,6,9
+253,PSU800,Seagate,582102,237.0,5,9
+254,PSU800,Silicon Power,480202,155.0,7,8
+255,PSU800,Sony,773116,169.0,6,9
+256,PSU800,Toshiba,786599,254.0,7,4
+257,PSU800,Transcend Information,311697,152.0,5,8
+258,PSU800,TrekStor,290607,176.0,6,8
+259,PSU800,Verbatim Corporation,511264,155.0,9,6
+260,PSU800,Western Digital,725874,289.0,8,9
+261,PSU800,Thermaltake,752519,211.0,8,7
+262,PSU800,UltraProducts,410252,197.0,6,4
+263,PSU800,Intel,226640,188.0,5,3
+264,PSU800,Nvidia,967372,247.0,5,7
+265,PSU800,Acer,364713,170.0,9,6
+266,PSU800,ACubeSystems,798808,281.0,8,6
+267,PSU800,AMAX Information Technologies,703106,218.0,5,3
+268,PSU800,AOpen,321360,211.0,6,5
+269,PSU800,Chassis Plans,598303,156.0,9,7
+270,PSU400,Seasonic,310347,103.0,5,7
+271,PSU400,ADATA,615589,159.0,5,3
+272,PSU400,Buffalo Technology,350773,128.0,6,5
+273,PSU400,Freecom,409392,173.0,4,6
+274,PSU400,G-Technology,159369,116.0,9,8
+275,PSU400,Hyundai,714411,87.0,9,4
+276,PSU400,IoSafe,783168,127.0,4,7
+277,PSU400,LaCie,641480,182.0,7,5
+278,PSU400,LG,699588,189.0,6,4
+279,PSU400,Maxtor,734949,187.0,5,4
+280,PSU400,Shuttle SilverStoneTechnology,888380,86.0,9,6
+281,PSU400,Promise Technology,451595,91.0,9,9
+282,PSU400,Samsung,886013,149.0,4,9
+283,PSU400,Seagate,417489,192.0,8,4
+284,PSU400,Silicon Power,526350,168.0,7,7
+285,PSU400,Sony,561236,109.0,8,4
+286,PSU400,Toshiba,843408,154.0,9,9
+287,PSU400,Transcend Information,968063,141.0,8,6
+288,PSU400,TrekStor,387367,109.0,8,3
+289,PSU400,Verbatim Corporation,167055,131.0,4,8
+290,PSU400,Western Digital,713042,194.0,9,5
+291,PSU400,Thermaltake,394576,122.0,6,5
+292,PSU400,UltraProducts,336366,180.0,9,9
+293,PSU400,Intel,376094,193.0,5,4
+294,PSU400,Nvidia,576094,132.0,9,9
+295,PSU400,Acer,615283,134.0,7,7
+296,PSU400,ACubeSystems,932617,169.0,8,9
+297,PSU400,AMAX Information Technologies,215789,200.0,6,9
+298,PSU400,AOpen,873656,154.0,4,7
+299,PSU400,Chassis Plans,396003,102.0,7,8
+300,Mouse,Seasonic,812241,26.0,4,7
+301,Mouse,ADATA,949312,90.0,7,7
+302,Mouse,Buffalo Technology,393921,90.0,7,3
+303,Mouse,Freecom,317419,86.0,4,8
+304,Mouse,G-Technology,730619,77.0,4,8
+305,Mouse,Hyundai,893668,60.0,9,5
+306,Mouse,IoSafe,948102,36.0,4,8
+307,Mouse,LaCie,661759,71.0,8,8
+308,Mouse,LG,133531,47.0,6,7
+309,Mouse,Maxtor,631441,99.0,8,9
+310,Mouse,Shuttle SilverStoneTechnology,177373,96.0,6,8
+311,Mouse,Promise Technology,120318,18.0,9,7
+312,Mouse,Samsung,442094,75.0,9,8
+313,Mouse,Seagate,415244,41.0,9,4
+314,Mouse,Silicon Power,741451,51.0,4,7
+315,Mouse,Sony,146668,56.0,4,7
+316,Mouse,Toshiba,218160,40.0,9,7
+317,Mouse,Transcend Information,410641,14.0,7,9
+318,Mouse,TrekStor,298266,66.0,7,9
+319,Mouse,Verbatim Corporation,898106,58.0,6,5
+320,Mouse,Western Digital,638592,67.0,9,3
+321,Mouse,Thermaltake,524316,59.0,8,9
+322,Mouse,UltraProducts,180875,100.0,9,9
+323,Mouse,Intel,968872,19.0,7,8
+324,Mouse,Nvidia,503124,36.0,8,8
+325,Mouse,Acer,205313,39.0,4,3
+326,Mouse,ACubeSystems,134511,62.0,6,9
+327,Mouse,AMAX Information Technologies,503862,29.0,7,3
+328,Mouse,AOpen,835413,78.0,4,9
+329,Mouse,Chassis Plans,904386,51.0,9,7
+330,Monitor,Seasonic,634284,159.0,5,5
+331,Monitor,ADATA,534436,172.0,9,9
+332,Monitor,Buffalo Technology,128716,95.0,7,9
+333,Monitor,Freecom,121815,190.0,9,3
+334,Monitor,G-Technology,486324,104.0,4,7
+335,Monitor,Hyundai,747979,109.0,9,9
+336,Monitor,IoSafe,663633,81.0,5,3
+337,Monitor,LaCie,933810,138.0,6,5
+338,Monitor,LG,683864,99.0,6,6
+339,Monitor,Maxtor,520501,185.0,7,6
+340,Monitor,Shuttle SilverStoneTechnology,536146,126.0,8,6
+341,Monitor,Promise Technology,107574,176.0,8,9
+342,Monitor,Samsung,902834,193.0,4,7
+343,Monitor,Seagate,725605,162.0,6,3
+344,Monitor,Silicon Power,796325,147.0,8,8
+345,Monitor,Sony,511269,112.0,9,5
+346,Monitor,Toshiba,101862,168.0,7,5
+347,Monitor,Transcend Information,849023,197.0,6,3
+348,Monitor,TrekStor,709437,179.0,8,8
+349,Monitor,Verbatim Corporation,318512,193.0,5,3
+350,Monitor,Western Digital,936522,80.0,7,5
+351,Monitor,Thermaltake,414436,136.0,4,6
+352,Monitor,UltraProducts,288654,159.0,6,8
+353,Monitor,Intel,339718,104.0,5,9
+354,Monitor,Nvidia,125484,178.0,5,3
+355,Monitor,Acer,971222,154.0,8,3
+356,Monitor,ACubeSystems,678648,167.0,6,9
+357,Monitor,AMAX Information Technologies,960251,114.0,7,6
+358,Monitor,AOpen,141979,100.0,9,3
+359,Monitor,Chassis Plans,966743,135.0,8,6
+360,GraphicCard,Seasonic,473230,202.0,7,8
+361,GraphicCard,ADATA,302108,217.0,4,7
+362,GraphicCard,Buffalo Technology,362789,258.0,8,8
+363,GraphicCard,Freecom,379133,163.0,7,3
+364,GraphicCard,G-Technology,827113,240.0,4,9
+365,GraphicCard,Hyundai,664652,182.0,5,7
+366,GraphicCard,IoSafe,596311,165.0,8,6
+367,GraphicCard,LaCie,434119,279.0,6,4
+368,GraphicCard,LG,535406,211.0,7,8
+369,GraphicCard,Maxtor,567910,279.0,9,5
+370,GraphicCard,Shuttle SilverStoneTechnology,854878,292.0,4,9
+371,GraphicCard,Promise Technology,707618,158.0,9,5
+372,GraphicCard,Samsung,463045,242.0,7,3
+373,GraphicCard,Seagate,219126,169.0,4,6
+374,GraphicCard,Silicon Power,142225,281.0,6,4
+375,GraphicCard,Sony,522702,223.0,5,8
+376,GraphicCard,Toshiba,449449,240.0,4,6
+377,GraphicCard,Transcend Information,278851,215.0,5,7
+378,GraphicCard,TrekStor,332975,197.0,5,9
+379,GraphicCard,Verbatim Corporation,260660,173.0,7,6
+380,GraphicCard,Western Digital,339459,259.0,7,5
+381,GraphicCard,Thermaltake,233013,270.0,8,4
+382,GraphicCard,UltraProducts,537446,256.0,5,9
+383,GraphicCard,Intel,758900,209.0,5,9
+384,GraphicCard,Nvidia,563744,288.0,9,8
+385,GraphicCard,Acer,677748,234.0,6,5
+386,GraphicCard,ACubeSystems,538817,153.0,5,9
+387,GraphicCard,AMAX Information Technologies,162997,254.0,7,8
+388,GraphicCard,AOpen,605666,189.0,5,4
+389,GraphicCard,Chassis Plans,290920,240.0,5,6
+390,Speaker,Seasonic,484749,104.0,5,5
+391,Speaker,ADATA,267595,146.0,6,9
+392,Speaker,Buffalo Technology,768469,168.0,5,9
+393,Speaker,Freecom,733607,185.0,9,6
+394,Speaker,G-Technology,440373,76.0,7,6
+395,Speaker,Hyundai,876318,109.0,6,9
+396,Speaker,IoSafe,187315,96.0,4,5
+397,Speaker,LaCie,878215,98.0,5,3
+398,Speaker,LG,837110,67.0,4,7
+399,Speaker,Maxtor,574413,199.0,4,7
+400,Speaker,Shuttle SilverStoneTechnology,649298,125.0,9,5
+401,Speaker,Promise Technology,577411,105.0,5,7
+402,Speaker,Samsung,696862,97.0,8,9
+403,Speaker,Seagate,384193,119.0,8,6
+404,Speaker,Silicon Power,479656,123.0,8,4
+405,Speaker,Sony,356884,170.0,6,6
+406,Speaker,Toshiba,874863,60.0,8,3
+407,Speaker,Transcend Information,913002,127.0,5,4
+408,Speaker,TrekStor,535986,104.0,7,3
+409,Speaker,Verbatim Corporation,291451,115.0,4,7
+410,Speaker,Western Digital,823387,183.0,4,9
+411,Speaker,Thermaltake,896634,182.0,5,6
+412,Speaker,UltraProducts,577287,189.0,6,8
+413,Speaker,Intel,448032,112.0,4,6
+414,Speaker,Nvidia,114920,100.0,5,5
+415,Speaker,Acer,203309,98.0,4,3
+416,Speaker,ACubeSystems,183096,68.0,7,8
+417,Speaker,AMAX Information Technologies,623532,187.0,7,8
+418,Speaker,AOpen,705410,182.0,6,3
+419,Speaker,Chassis Plans,159587,77.0,7,6
